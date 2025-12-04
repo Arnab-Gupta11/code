@@ -1,0 +1,2 @@
+1. Array can not return from function.
+2. If we pass an array into a function . We must pass the array and its size.   
