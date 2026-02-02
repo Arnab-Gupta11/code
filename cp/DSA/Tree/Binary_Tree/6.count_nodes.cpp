@@ -98,6 +98,7 @@ Node *input_tree()
     return root;
 }
 
+// count nodes
 int count_nodes(Node *root)
 {
     if (root == NULL)
